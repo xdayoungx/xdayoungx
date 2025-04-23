@@ -13,12 +13,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
-## 🌟 Projects
+## 🌟 작품
 - [작품](https://github.com/xdayoungx/ssgontop) - 나의 첫번째 작품이다
 
-## 📫 How to reach me:
+## 📫 연락처
 - Email: day1petsim@Gmail.com
 
-## 📊 GitHub Stats
+## 📊 정보
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdayoungx&show_icons=true&count_private=true&hide=prs)
 
