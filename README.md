@@ -14,10 +14,10 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ## 🌟 Projects
-- [작품](https://github.com/xdayoungx/ssgontop) - Description of the project.
+- [작품](https://github.com/xdayoungx/ssgontop) - 나의 첫번째 작품이다
 
 ## 📫 How to reach me:
-- Email: day1petsim@Gmai..com
+- Email: day1petsim@Gmail.com
 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=xdayoungx&show_icons=true&count_private=true&hide=prs)
